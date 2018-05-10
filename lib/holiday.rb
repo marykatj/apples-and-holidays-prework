@@ -45,7 +45,6 @@ def all_winter_holiday_supplies(holiday_hash)
     holidays_supplies <<  season_contents.values.flatten
   end
   holidays_supplies
-     
 end
 
 def all_supplies_in_holidays(holiday_hash)
